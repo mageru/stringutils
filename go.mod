@@ -1,3 +1,3 @@
-module github.com/jboursiquot/go-in-3-weeks
+module github.com/mageru/stringutils
 
-go 1.17
+go 1.16
